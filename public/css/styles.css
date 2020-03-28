@@ -1,0 +1,36 @@
+body
+{
+    color: cadetblue;
+    max-width: 650px;
+    font-family: Arial;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+footer
+{
+    background-color: rgb(77, 77, 77);
+    border-top: solid 1px;
+    margin: 16px;
+    padding: 16px;
+}
+header
+{
+    margin-bottom: 48px;
+    margin-top: 16px;
+}
+
+header a
+{
+    margin-right: 8px;
+}
+
+h3
+{
+    color:blue;
+}
+
+img
+{
+    width: 250px;
+    
+}
